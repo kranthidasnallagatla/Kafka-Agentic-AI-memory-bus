@@ -92,4 +92,4 @@ python tests/test_phase2_agents.py
 
 ## Author
 
-Built as a proprietary project — not open source.
+Kranthi
