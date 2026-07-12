@@ -71,7 +71,7 @@ Phase 3 builds the dashboard so a user can drive it.
 
 - Phase 1 — Done. Local Kafka, working agents, 32 tests passing.
 - Phase 2 — Done. Real AI via Bedrock, DynamoDB memory, AWS MSK.
-- Phase 3 — Coming. Chat UI, API Gateway, browser interface.
+- Phase 3 — Done. Chat UI, API Gateway, browser interface.
 - Phase 4 — Coming. Monitoring, alerts, audit archive.
 
 ---
